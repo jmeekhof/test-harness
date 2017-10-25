@@ -5,6 +5,10 @@ phases:
     install:
         commands:
             - echo Hello. Entering the wooded realm.
-            - yum install -y gradle
+            #- yum install -y gradle
             - echo Tools installed
+    build:
+        commands:
+            - echo Deploying
+            - gradle mlDeploy -i
 
