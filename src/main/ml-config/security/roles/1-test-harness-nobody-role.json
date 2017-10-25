@@ -1,0 +1,5 @@
+{
+  "role-name" : "test-harness-nobody",
+  "description" : "Unauthenticated user",
+  "role" : [ ]
+}

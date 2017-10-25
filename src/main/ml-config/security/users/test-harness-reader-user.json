@@ -1,0 +1,5 @@
+{
+  "user-name" : "test-harness-reader",
+  "password" : "test-harness-reader",
+  "role" : [ "test-harness-reader" ]
+}

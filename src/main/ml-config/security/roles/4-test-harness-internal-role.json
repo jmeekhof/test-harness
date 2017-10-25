@@ -1,0 +1,5 @@
+{
+  "role-name" : "test-harness-internal",
+  "description" : "Internal role used for amping",
+  "role" : [ "test-harness-writer" ]
+}

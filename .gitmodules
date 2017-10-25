@@ -1,0 +1,6 @@
+[submodule "src/main/ml-modules/root/vaderXquery"]
+	path = src/main/ml-modules/root/vaderXquery
+	url = https://github.com/jmeekhof/vaderXquery
+[submodule "src/main/ml-modules/root/xray"]
+	path = src/main/ml-modules/root/xray
+	url = https://github.com/robwhitby/xray
